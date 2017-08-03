@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Login</string>
+    <string name="app_name"></string>
     <string name="login_name">Login</string>
     <string name="sign">Sign in using your Bison email:</string>
     <string name="usernamehint">Username</string>
