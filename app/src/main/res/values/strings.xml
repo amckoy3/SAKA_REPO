@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="login_name">Login</string>
+    <string name="sign">Sign in using your Bison email:</string>
+    <string name="usernamehint">Username</string>
+    <string name="Pw">Password</string>
+    <string name="Trending">Trending:</string>
+    <string name="mock">Charles Brown</string>
+    <string name="user_name">Charles Smith</string>
+    <string name="book_name">Fundamentals of Algorithms 4th Edition</string>
+    <string name="book_author">John Black</string>
+</resources>

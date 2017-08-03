@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mckoy/AndroidStudioProjects/SAKA/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4596c52d6a6fcd9b4cfcf0354d2145a411bb5ca4">
+        <dex dex="/Users/mckoy/AndroidStudioProjects/SAKA/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b39d9a4bd5841a88888f3a14b5d14416ffc22539/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mckoy/AndroidStudioProjects/SAKA/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/mckoy/AndroidStudioProjects/SAKA/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_89569ee144aa703dd64e4da2c19a587dc386e10e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mckoy/.android/build-cache/afc6ebbc39d8564da721ecb21abd5e9be7e63922/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/Users/mckoy/AndroidStudioProjects/SAKA/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f481ceb2702aa61b148bc843db8dfdc97e04d47/classes.dex" />
+    </item>
+
+</items>
